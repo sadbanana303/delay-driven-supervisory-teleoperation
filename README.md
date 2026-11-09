@@ -153,4 +153,4 @@ Released under the MIT License. See `LICENSE`.
 
 ## Contact
 
-Corresponding author: [name and email, matching the manuscript].
+Corresponding author: Nandana Mihira Narendra (nanmihi.narendra@gmail.com)
